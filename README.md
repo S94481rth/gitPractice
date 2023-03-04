@@ -1,2 +1,2 @@
 #demo
-##Welcome to the new commit
+Welcome to the new commit
